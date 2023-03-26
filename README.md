@@ -1,4 +1,11 @@
 # 🕹️🌎🚥 Virtual Reality Light Control Game 🎮🤖📡
+[![Python Version](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+[![Unity Version](https://img.shields.io/badge/Unity-2021.3.19-green)](https://unity.com/releases/2021-3)
+[![PySerial Version](https://img.shields.io/badge/pyserial-v3.5-orange)](https://pypi.org/project/pyserial/)
+[![NumPy Version](https://img.shields.io/badge/numpy-v1.19.5-blue)](https://pypi.org/project/numpy/)
+[![HC-06 Library](https://img.shields.io/badge/HC--06-v1.0-green)](https://github.com/martynist/HC-06)
+[![Arduino Version](https://img.shields.io/badge/Arduino-1.8.16-blue)](https://www.arduino.cc/)
+
 
 A game that controls real-world lights using Arduino and IoT technology. When something happens in the game, it triggers a response in the real world.
 
