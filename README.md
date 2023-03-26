@@ -1,25 +1,43 @@
-# Virtual-Realtiy-with-Real-world-IOT
+# 🕹️🌎🚥 Virtual Reality Light Control Game 🎮🤖📡
 
-<li>Virtual World with Real World Electronic Devices manipulate</li>
+A game that controls real-world lights using Arduino and IoT technology. When something happens in the game, it triggers a response in the real world.
 
-<li>Use headset <u>when user say light off</u> VR Lights off and Ardiunos controlled same as in <u> real world and lights off</u></li><br>
-This project over than 3.6 GB so i have uploded into google drive 
+## 🚀 Getting Started
 
-<br>
+To get started, download the project files from [Google Drive](https://drive.google.com/drive/folders/1gCyDzG0gnV8oXJJ6I4pnwzAONKNMf7Jh) (12GB) and unzip the files. Make sure to keep the `main.py`, `main2.py`, `a.bat`, `b.bat`, and `light_off.cs` files in the installation folder.
 
-<a href="https://drive.google.com/drive/folders/1gCyDzG0gnV8oXJJ6I4pnwzAONKNMf7Jh?usp=sharing">Visit here for files</a>
+### ⚙️ Installation
 
-<h1>Instruction</h1>
+1. Install Unity 2021.3.19
+2. Open the project in Unity
+3. Build and Run the project on your device
 
-<li>\Assets folder light_off.cs file change into local files are saved ex :-</li>
+### 🔧 Arduino and IoT Setup
 
-![image](https://user-images.githubusercontent.com/87107996/214792905-ad41adc0-61e7-4516-8a96-19d99958ffaa.png)
+1. Connect the HC-06 Bluetooth module to the Arduino board
+2. Upload the `arduino.ino` sketch to the Arduino board
+3. Connect the lights to the Arduino board
+4. Make sure the lights are working properly
+5. When the Arduino receives a `1` from the laptop, the lights turn on. When it receives a `0`, the lights turn off.
 
+### 🕹️ Playing the Game
 
-<br><li>a.bat file change to where main.py locate example "start -main.py location-"</li><br>
+1. Launch the game on your device
+2. Follow the instructions in the game to play
+3. When you perform a certain action in the game, it will trigger a response in the real world
 
-<li>b.bat file change to where main2.py locate example "start -main2.py location-"</li> <br> <br>
+## 📝 License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/example/repo/issues).
+
+## 🙏 Acknowledgments
+
+- Thanks to the Unity community for their support
+- Thanks to the Arduino community for their contributions
+- Thanks to the IoT community for their guidance
 
 https://user-images.githubusercontent.com/87107996/214775481-1f3a7d18-9e1f-4769-b1b6-5d70f02952ae.mp4
-
