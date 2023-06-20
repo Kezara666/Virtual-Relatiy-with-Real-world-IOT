@@ -47,4 +47,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check out 
 - Thanks to the Arduino community for their contributions
 - Thanks to the IoT community for their guidance
 
+  ![Sample](https://securityapp.realit.lk/a.gif)
+
 https://user-images.githubusercontent.com/87107996/214775481-1f3a7d18-9e1f-4769-b1b6-5d70f02952ae.mp4
